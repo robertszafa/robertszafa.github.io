@@ -19,15 +19,23 @@ Work experience
 * 2019-2020: Wireless Software Engineer, Intel
   * Accelerating 5G Layer 1 algorithms on novel Intel architectures. 
 
-* 2020-2021: Student Demonstrator
-  * Providing tutorials for a first-year module Fundamentals of Computer Science.
+
+Teaching
+======
+* 2020-2021: Student Demonstrator, University of Liverpool
+  * Providing tutorials for a first-year module Foundations of Computer Science (COMP109)
+
   
 <!-- Skills
 ======
 * Skill 1
-* Skill 2 -->
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
 
-<!-- Publications
+Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -37,14 +45,8 @@ Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul>
   
-<!-- Teaching -->
-<!-- ====== -->
-  <!-- <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
-<!-- Service and leadership
+Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
