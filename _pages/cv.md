@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download pdf here](http://robertszafa.github.io/files/CV_2022.pdf)
+[Download pdf](http://robertszafa.github.io/files/CV_2022.pdf)
 
 <!-- Education
 ======

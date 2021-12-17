@@ -86,7 +86,7 @@ author:
   location         : 
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : ""
+  googlescholar    : 
   email            : "robert.szafarczyk.1@research.gla.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
