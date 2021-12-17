@@ -1,10 +1,10 @@
 ---
 title: 'Accelerating Biological Sequence Alignment Using a GPU'
-# date: 2012-08-14
-permalink: /posts/2021/06/dissertation
-tags:
-  - gpu
-  - dissertation
+date: 2021-06-01
+permalink: /posts/2021/06/sequence-alignment-gpu
+# tags:
+#   - gpu
+#   - dissertation
 ---
 
 This is a brief description of my undergraduate Honours project. 
