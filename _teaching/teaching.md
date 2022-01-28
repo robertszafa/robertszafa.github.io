@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
@@ -8,10 +8,11 @@ author_profile: true
 
 {% include base_path %}
 
-Teaching
-======
+<!-- Teaching -->
+<!-- ====== -->
 * 2022-present, University of Glasgow
-  * Graduate Teaching Assistant for Functional Programming (COMPSCI4021)
+  * Tutor for Functional Programming (COMPSCI4021)
+  * Tutor for Object Oriented Software Engineering 2 (COMPSCI2008)
 
 * 2020-2021, University of Liverpool
-  * Student Demonstrator for Fundamentals of Computer Science (COMP109)
+  * Demonstrator for Fundamentals of Computer Science (COMP109)
