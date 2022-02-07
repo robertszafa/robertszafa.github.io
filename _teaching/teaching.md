@@ -10,7 +10,7 @@ author_profile: true
 
 <!-- Teaching -->
 <!-- ====== -->
-* 2022-present, University of Glasgow
+* 2021-2022, University of Glasgow
   * Tutor for Functional Programming (COMPSCI4021)
   * Tutor for Object Oriented Software Engineering 2 (COMPSCI2008)
 
