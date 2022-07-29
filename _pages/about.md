@@ -9,7 +9,9 @@ redirect_from:
 ---
 I am a PhD student at the University of Glasgow under the supervision of [Prof Wim Vanderbauwhede](http://www.dcs.gla.ac.uk/~wim/) and [Dr Syed Waqar Nabi](http://www.dcs.gla.ac.uk/~waqar/).
 
-My work focuses on compilers for heterogeneous architectures (in particular FPGAs). I'm particularly interested in applying elastic dataflow techniques to irregular codes whose runtime behaviour prohibits an efficient static schedule relied upon by current HLS tools.
+My work focuses on compilers for heterogeneous architectures (in particular FPGAs). I'm particularly interested in extending existing HLS tools with elastic dataflow techniques to enable efficient acceleration of irregular codes.
+
+<!-- The dynamic nature of irregular codes prohibits current HLS tools from creating an efficient static schedule at compile. -->
 
 <!-- to achieve higher performance per watt. The vision is that domain scientists keep writing programs in their familiar language (this is mostly Fortran for weather models), and the compiler takes over the job of mapping the code to the best architecture and transforming it to fit the available resources.
 
