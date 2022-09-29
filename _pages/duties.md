@@ -10,6 +10,10 @@ author_profile: true
 <!-- Teaching -->
 <!-- ====== -->
 **Teaching**
+* 2022-2023, University of Glasgow
+  * Tutor for Systems Programming (COMPSCI4081)
+  * Tutor for Distributed and Parallel Technologies (COMPSCI5084)
+
 * 2021-2022, University of Glasgow
   * Tutor for Functional Programming (COMPSCI4021)
   * Tutor for Object Oriented Software Engineering 2 (COMPSCI2008)

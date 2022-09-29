@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV 2021"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,22 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-[Download pdf](http://robertszafa.github.io/files/CV_2022.pdf)
+[Download cv](/files/CV_2022.pdf)
 
-<!-- Education
+Education
 ======
 * B.S. Computer Science with Year in Industry, University of Liverpool, 2021
 * Ph.D in Computer Science, University of Glasgow, started 2021
 
 Work experience
 ======
-* 2019-2020: Wireless Software Engineer, Intel
-  * Accelerating 5G Layer 1 algorithms on novel Intel architectures. 
-
-
-Teaching
-======
-* 2020-2021: Student Demonstrator, University of Liverpool
-  * Providing tutorials for a first-year module Foundations of Computer Science (COMP109) -->
-
+* 2019-2020: Intel, Wireless Software Engineer Intern, Accelerating 5G Layer 1 algorithms on novel architectures. 
  
